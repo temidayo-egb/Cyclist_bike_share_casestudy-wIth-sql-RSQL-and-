@@ -45,7 +45,7 @@ Then, I processed my data for analysis using the following Case Study Roadmap as
 
 Case Study Roadmap - Process
 
-# Guiding questions
+Guiding questions
 ● What tools are you choosing and why?
 ● Have you ensured your data’s integrity?
 ● What steps have you taken to ensure that your data is clean?
@@ -53,13 +53,13 @@ Case Study Roadmap - Process
 ● Have you documented your cleaning process so you can review and share those
 results?
 
-# Key tasks
+ Key tasks
 ● Check the data for errors.
 ● Choose your tools.
 ● Transform the data so you can work with it effectively.
 ● Document the cleaning process
 
-# Deliverable
+ Deliverable
 ● Documentation of any cleaning or manipulation of data
 
 
@@ -67,28 +67,84 @@ results?
 
 Now that my data is stored appropriately and has been prepared for analysis, I started putting it to work. I UseD the following Case Study Roadmap as a guide:
 
-# Guiding questions
+Guiding questions
 ● How should you organize your data to perform analysis on it?
 ● Has your data been properly formatted?
 ● What surprises did you discover in the data?
 ● What trends or relationships did you find in the data?
 ● How will these insights help answer your business questions?
 
-# Key tasks
+Key tasks
 ● Aggregate your data so it’s useful and accessible.
 ● Organize and format your data.
 ● Perform calculations.
 ● Identify trends and relationships.
 
-# Deliverable
+Deliverable
 ● A summary of your analysis
 
 
-
-# I Followed these steps  using SQL
+I Followed these steps  using SQL
 Open your SQL tool of choice(I USED "MY SQL"), then complete the following steps:
 1. Import your data.
 2. Explore your data, perhaps looking at the total number of rows, distinct values, maximum, minimum, or mean values.
 3. Where relevant, use JOIN statements to combine your relevant data into one table.
 4. Create summary statistics.
 5. Investigate interesting trends and save that information to a table.
+
+
+# Share
+
+Now that you have performed your analysis and gained some insights into your data, create visualizations to share your findings. Moreno has reminded you that they should be sophisticated and polished in order to effectively communicate to the executive team. Use the following Case Study Roadmap as a guide:
+
+Case Study Roadmap - Share
+
+Guiding questions
+
+● Were you able to answer the question of how annual members and casual riders use Cyclistic bikes
+differently?
+● What story does your data tell?
+● How do your findings relate to your original question?
+● Who is your audience? What is the best way to communicate with them?
+● Can data visualization help you share your findings?
+● Is your presentation accessible to your audience?
+
+Key tasks
+
+● Determine the best way to share your findings.
+● Create effective data visualizations.
+● Present your findings.
+● Ensure your work is accessible.
+
+Deliverable
+
+● Supporting visualizations and key findings
+
+Follow these steps:
+1. Take out a piece of paper and a pen and sketch some ideas for how you will visualize
+the data.
+2. Once you choose a visual form, open your tool of choice to create your visualization.
+Use a presentation software, such as PowerPoint or Google Slides, your spreadsheet
+program, Tableau, or R.
+3. Create your data visualization, remembering that contrast should be used to draw your
+audience’s attention to the most important insights. Use artistic principles including
+size, color, and shape.
+4. Ensure clear meaning through the proper use of common elements, such as headlines,
+subtitles, and labels.
+5. Refine your data visualization by applying deep attention to detail.
+
+# Act
+RECOMMENDATIONS :
+
+From the analysis performed on the data provided, I have the following recommendations:
+
+1. Have a advertising campaign to casual riders leading into the summer months
+
+2. Inform the casual riders how much they can save if they were to convert to a member by providing promotions throughout the year such as a free trial or a discount throughout the summer months.
+
+3. Create a reward program to the members and that might help incentavise the casual user to become a member
+
+4.Make docked bikes avaliable in the annual membership
+
+
+# This was a Case Study for the Google Data Analytics Certificate.
