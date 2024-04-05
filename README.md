@@ -85,7 +85,7 @@ Now that my data is stored appropriately and has been prepared for analysis, I s
 
 
 
-# I Follow these steps  using SQL
+# I Followed these steps  using SQL
 Open your SQL tool of choice(I USED "MY SQL"), then complete the following steps:
 1. Import your data.
 2. Explore your data, perhaps looking at the total number of rows, distinct values, maximum, minimum, or mean values.
